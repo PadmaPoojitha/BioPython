@@ -27,7 +27,7 @@ pip install biopython
 """Part 1: The Entrez Module"""
 
 from Bio import Entrez
-Entrez.email = "nsangani@iu.edu" 
+Entrez.email = "allap@iu.edu" 
 #Entrez.api_key = " " 
 
 # https://www.ncbi.nlm.nih.gov/
